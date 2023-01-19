@@ -39,8 +39,8 @@ My solution to solve this problem will be the development of a data science proj
 
 #### Linear Regression Model
 
-| RMSE | R2 |
-|:---------:|
+|  RMSE |   R2  |
+|:-----:|:-----:|
 | 0.103 | 0.955 | 
 
 

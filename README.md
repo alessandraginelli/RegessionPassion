@@ -46,11 +46,9 @@ My solution to solve this problem will be the development of a data science proj
 
 #### Random Forest Regression Model
 
-|   RMSE   |  R2   |
-
-|:----------------:|
-
-|   0.092  | 0.965 |
+|  RMSE |   R2  |
+|:-----:|:-----:|
+|  0.092| 0.965 |
 
 
 ## 4. Machine Learning Performance
